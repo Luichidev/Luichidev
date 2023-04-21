@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luis Alberto</h1>
-<h3 align="center">A passionate frontend developer from Barcelona-Spain</h3>
+<h3 align="center">Frontend developer from Barcelona-Spain</h3>
 - 🔭 I’m currently working on **Lite Solutions**
 
 - 👨‍💻 All of my projects are available at [https://luichi.dev](https://luichi.dev)
 
-- 💬 Ask me about **CSS, JAVA Script, PHP, React, Vue**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, PHP**
 
 - 📫 How to reach me **luichidev@gmail.com**
 
