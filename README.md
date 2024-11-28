@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://luichi.dev](https://luichi.dev)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, PHP, C#, Selenium, Specflow**
 
 - 📫 How to reach me **luichidev@gmail.com**
 
